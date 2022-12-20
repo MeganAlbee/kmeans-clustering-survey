@@ -16,7 +16,7 @@ This project uses Python and the following libraries :
 
 * scikit-learn 
 
-
+* seaborn
 
 
 
