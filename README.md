@@ -22,19 +22,3 @@ A financial institution conducted a survey of 2,421 members to better understand
 3. K-means clustering can be used to identify and classify clusters of respondents based on their responses. 
 
 4. If I were to update this project, I would use fewer clusters for ease of understanding and follow the Elbow Graph more closely. 
-
-## About the Dataset: 
-
-* `Clustering Assignment.ipynb`: This is the assignment for this week.
-* `Clustering Surveys.ipynb`: We'll go through this code in class.
-* `Clustering Surveys-Solutions.ipynb`: The solutions to the in-class work. 
-* `clustering_code.py`: Helper functions from "Data Science from Scratch" that
-perform K-means clustering. 
-* `linear_algebra.py`: More code from DSFS, which has the needed linear algebra
-functions that we use. 
-* `r-examples/`: A folder that holds R versions of all of this code. 
-* `survey_responses.txt`: The results of annual class surveys, building up 
-a data set to perform clustering on. I'll post an updated version to Moodle 
-if more results come in. 
-* `washington_survey_data.txt`: Data for the assignment.
-
