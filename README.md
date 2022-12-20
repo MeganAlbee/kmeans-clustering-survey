@@ -1,5 +1,5 @@
 # K-Means Clustering
-
+<img src="cluster.png">
 
 ## Project Intro/Objective
 K-Means clustering is employed on survey data from a credit union in Washington to gain insight and understanding into their members in this project. This unsupervised learning uses partitional clustering. 
